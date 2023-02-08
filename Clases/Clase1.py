@@ -1,7 +1,7 @@
 #Ejercicio de clase introduccion
 
 import cv2 as cv 
-import numpy as np
+import numpy as np  
 
 s = 100
 
